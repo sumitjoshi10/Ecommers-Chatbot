@@ -1,0 +1,6 @@
+langchain
+langchain-groq
+streamlit
+dotenv
+sqlalchemy
+sqllite3
