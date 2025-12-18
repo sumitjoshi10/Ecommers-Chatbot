@@ -1,6 +1,7 @@
 langchain
 langchain-groq
 streamlit
-dotenv
+python-dotenv
 sqlalchemy
-sqllite3
+sqlite3
+semantic-router[local]
