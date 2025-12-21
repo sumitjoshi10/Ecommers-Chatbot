@@ -10,3 +10,4 @@ sqlalchemy
 sqlite3
 semantic-router[local]
 sentence-transformers
+pip
