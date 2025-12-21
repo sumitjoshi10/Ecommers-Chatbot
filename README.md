@@ -60,12 +60,12 @@ This project provides a **modular, AI-driven E-commerce Chatbot** that:
 
 ### Architecture Design
 
-![Architecture Design](Snapshot/snapshot.png)  
+![Architecture Design](snapshot/snapshot.png)  
 ---
 
 ### App Demo
 
-![App Demo](Snapshot//image1.png)  
+![App Demo](snapshot//image1.png)  
 ---
 
 
