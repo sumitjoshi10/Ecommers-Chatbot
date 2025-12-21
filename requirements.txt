@@ -1,7 +1,12 @@
 langchain
+langchain-community
 langchain-groq
+langchain-huggingface
+langchain-chroma
+chromadb
 streamlit
 python-dotenv
 sqlalchemy
 sqlite3
 semantic-router[local]
+sentence-transformers
