@@ -1,3 +1,4 @@
+pip
 langchain
 langchain-community
 langchain-groq
@@ -6,8 +7,7 @@ langchain-chroma
 chromadb
 streamlit
 python-dotenv
-sqlalchemy
-sqlite3
 semantic-router[local]
 sentence-transformers
-pip
+sqlalchemy
+sqlite3
