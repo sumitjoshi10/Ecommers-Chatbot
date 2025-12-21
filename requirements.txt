@@ -10,4 +10,3 @@ python-dotenv
 semantic-router[local]
 sentence-transformers
 sqlalchemy
-sqlite3
