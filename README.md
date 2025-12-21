@@ -55,11 +55,25 @@ This project provides a **modular, AI-driven E-commerce Chatbot** that:
 
 ---
 
-## 📸 App Demo
 
-Interactive chat interface where users can type queries and receive instant answers.
+## 📸 Project Snapshots
 
-> _Add screenshots or GIFs here (recommended)_
+### Architecture Design
+
+![Architecture Design](Snapshot/snapshot.png)  
+---
+
+### App Demo
+
+![App Demo](Snapshot//image1.png)  
+---
+
+
+### 🌐 Live Demo:  
+
+
+👉 [Ecommerce Chatbot App](https://ecommerce-chatbot-1.streamlit.app/) 
+
 
 ---
 
@@ -78,8 +92,7 @@ Ecommers-Chatbot/
 │
 ├── resource/
 │   ├── faq_data.csv           # FAQ knowledge base
-│   ├── ecommerce.db           # SQLite / MySQL database file
-│   └── README.md              # Resource-level notes (optional)
+│   ├── flipkart_products.db   # SQLite / MySQL database file
 │
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project documentation
@@ -91,7 +104,7 @@ Ecommers-Chatbot/
 The main application entry point is:
 
 ```python
-main.py
+app/main.py
 ```
 
 This file initializes the Streamlit app, manages chat state, and routes user queries to the appropriate handler.
@@ -124,7 +137,7 @@ pip install -r requirements.txt
 ### 4️⃣ Run the application
 
 ```bash
-streamlit run main.py
+streamlit run app/main.py
 ```
 
 ---
