@@ -1,4 +1,4 @@
-# 🛒 E-commerce FAQ Chatbot
+# 🛒 E-commerce Chatbot
 
 This is a **Streamlit-based conversational chatbot application** designed for **E-commerce platforms**.  
 It intelligently routes user queries to different backends such as **FAQs**, **SQL-based product data**, and **small talk**, providing accurate and context-aware responses in real time.
